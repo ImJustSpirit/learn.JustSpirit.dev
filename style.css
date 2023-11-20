@@ -85,3 +85,7 @@ ul a{
 .content{
     padding: 5vh 25vw;
 }
+
+p {
+    padding-bottom: 2rem;
+}
